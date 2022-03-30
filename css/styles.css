@@ -1,8 +1,15 @@
+main{
+  resize: both;
+}
+
+h2{
+  margin-bottom: 1rem;
+}
 
 .carta{
   display: flex;
   justify-content: center;
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 #number{
