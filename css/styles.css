@@ -1,0 +1,26 @@
+.carta{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+#number{
+  text-align: center;
+}
+
+.btn-outline-primary {
+    color: black;
+    border-color: black;
+  }
+
+.btn-outline-primary:hover {
+        color: black;
+        border-color: black;
+        background-color: transparent;
+      }
+
+.center{
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+}
