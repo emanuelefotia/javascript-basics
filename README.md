@@ -6,4 +6,4 @@ It is possible to change the value (the number of items to be purchased) by pres
 
 
 
-Visit the link to try it out:
+Visit the link to try it out: https://emanuelefotia.github.io/javascript-basics/
